@@ -42,9 +42,80 @@ We are always open to feedback to keep co-creating and improving the experience 
 
 [Here](src/installation-links) you will find the list of programs you will need to install before starting the bootcamp
 
+![alt text](https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png 'corecodeio')
+
+</a>
+
+<h1 align="center">Installation Links</h1>
+
+1. [Visual Studio Code](https://code.visualstudio.com/)
+2. [Node](https://nodejs.org/en/)
+3. [Postman](https://www.postman.com/)
+
+## Visual Studio Code - Extensions (Optional)
+
+1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+2. [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+3. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+4. [Ident Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+## How to install a Visual Studio Code Extension
+
+[Here](https://code.visualstudio.com/learn/get-started/extensions) you will find a tutorial on how to install the extensions if need it
+
 ## 5. Project
 
 [Here](src/project) you will find the description and the necessary instructions for the project that you will be developing
+
+<h1 align="center">Project</h1>
+<p>Throughout the course, you will be developing a project, which you will be presenting at the end of the course, in order to obtain your certificate.</p>
+
+<h1 align="center">Project features</h1>
+<p>The project consists of making a web to-do application, we will be giving you the part of the frontend in <b>React</b> ready to use, so you will only need to work in the backend part of the project, this web application must have the following characteristics:</p>
+
+- Ability to create a new to-do element
+- Ability to edit a to-do element
+- Ability to delet a to-do element
+- Ability to show a list of to-do elements
+- Ability to filter the to-do elemebts by:
+  - Priority
+  - Date of creation
+- Each to-do element should have this characteristics:
+  - Date of creation
+  - Date of edit (if it was the case)
+  - Priority ( 0 to 5, 5 being the max priority )
+  - Title
+  - Description
+  - State ( Done and Pending )
+- Use of Node
+  - Use of javascript
+  - Use of SQLlite package
+  - Use of Express
+    - Use of routes
+    - Use of middleware
+    - Use of JSON middleware
+  - Use of POST, PATCH, GET, DELETE methods
+  - Use of uuid packages
+
+## Resources
+
+1. [MDN Web Docs - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+2. [React Developer Tools - Chrome Extension](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+3. [React API](https://reactjs.org/docs/getting-started.html)
+4. [Express API](https://expressjs.com/en/5x/api.html)
+5. [Node Documentation](https://nodejs.org/en/docs/)
+
+## FAQ
+
+**Q:** The project is in pairs?  
+**A:** No, the project is individual
+
+##
+
+**Q:** What is the evaluation rubric like?  
+**A:** We expect that all of the characteristics listed above are met
+
+##
 
 ## 6. Technologies
 
@@ -61,9 +132,74 @@ We are always open to feedback to keep co-creating and improving the experience 
 - Week 11 : [S.O.L.I.D & Final presentations](src/technologies/2022/week11)
 - Week 12 : [Final presentations](src/technologies/2022/week12)
 
+<h1 align="center">Introduction to programming & Javascript - Week 1</h1>
+
+## Week goal 🏁
+
+<p>Learn about the basics of programming and start knowing Javascript</p>
+
+## Week subtopics
+
+- What does programming look like?
+- What really is programming?
+- What is a program?
+- How a computer run a program?
+- Algorithmic operations
+  - Sequential
+  - Conditional
+  - Iterative
+- Basic elements of programming
+  - Instruction set
+  - Variables
+  - Input / Output
+- "I have no idea what i'm doing" feeling
+- Wat is javascript?
+- What is an interpreted language?
+- Javascript Hello World
+- MDN Documentation
+- Variables in Javascript
+- Data types in Javascript
+  - number
+  - boolean
+  - string
+- comments in Javascript
+
+## Week challenges (Tuesday) 💻
+
+1. Watch [this](https://www.youtube.com/watch?v=JNMy969SjyU) video about compilation and interpretation
+2. Search and answer the question: Java language is compiled or interpreted?
+3. Create an algorithm to calculate the equivalent of your local currencty to USD
+4. Read about Pseudocode [here](https://www.freecodecamp.org/news/what-is-pseudocode-in-programming/), you can also find some examples [here](resources/PSEUDOCODE.md)
+5. Anwser to the question: Why is pseudocode helpful?
+6. Create a pseudocode to calculate the aproximated age of a user base on the year they born, (you can define a variable with the actual year if you need it, like for example i could define Y <-- 2022)
+7. Read about flowcharts [here](https://www.lucidchart.com/pages/es/que-es-un-diagrama-de-flujo)
+8. Answer to the question: Why are flowcharts important to us as developers?
+9. Search about High-level languages and Low-level languages, you can start with [this](https://www.youtube.com/watch?v=1vRPOp5p-qs) video
+
+## Week challenges (Wednesday) 💻
+
+1. Learn about binary, decimal and hexadecimal numbers
+2. Translate the year you where born to binary, decimal and hexadecimal
+3. Translate 51966 into hexadecimal and binary
+4. Use a Low-level language, for example MIPS aseembler, to do so, you will need to follow [this](resources/MIPS.md) guide. We recomend to check the guide first but also [this](https://courses.cs.vt.edu/cs2506/Fall2014/Notes/L04.MIPSAssemblyOverview.pdf) presentation could be helpful.
+5. Base on the examples and the guide of the low-level language:
+   5.1 Create a program to add two numbers given by the user
+   5.2 Create a program that display your name
+
+## Week challenges (Thursday) 💻
+
+1. Search for real word applications of Javascript
+2. (optional but great) Watch [this](https://www.youtube.com/watch?v=LW6vQNE2jgc&t=1962s) video
+3. (optional but great) Watch [this](https://www.youtube.com/watch?v=KXkQJBASUOg) video
+4. Follow the github course, you can find it [here](./../../../recommended)
+
+## Week links 🔗
+
 ## 7. Core Challenges
 
 You can find your Core Challenges [here](https://corecode.notion.site/Core-Code-Boost-e30bf6e94690457d933004552f74970b). These challenges will be unlocked week by week.
+
+
 
 ## 8. Schedule
 
