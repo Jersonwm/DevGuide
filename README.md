@@ -42,9 +42,7 @@ We are always open to feedback to keep co-creating and improving the experience 
 
 [Here](src/installation-links) you will find the list of programs you will need to install before starting the bootcamp
 
-![alt text](https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png 'corecodeio')
 
-</a>
 
 <h1 align="center">Installation Links</h1>
 
